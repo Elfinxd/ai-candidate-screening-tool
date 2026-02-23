@@ -75,45 +75,48 @@ Export the ranked shortlist instantly.
 
 ### 📌 Sample Job Description
 
+We are hiring a Backend Python Developer.
+
+Requirements:
+- Strong knowledge of Python
 - Experience with Django or FastAPI
 - Experience with AWS services (EC2, S3, Lambda)
+- Maintain CI/CD pipelines
 - Minimum 3 years of professional experience
-- Bachelor's degree in Computer Science or related field
-- Strong knowledge of Python
-- Experience maintaining CI/CD pipelines
+- Bachelor’s degree in Computer Science or related field
 
 ---
 
-### 📌 Sample Resumes (Copy All Below)
+### 📌 Sample Resumes (Copy All Below & seperate them with ###)
 
 5 years of experience in Python and Django.
-Strong AWS experience, including EC2, Lambda, and S3.
+Strong AWS experience including EC2, Lambda, and S3.
 Built distributed systems and scalable APIs.
 Maintained CI/CD pipelines.
 M.Tech in Software Engineering.
-
-2 years of experience in Java.
+###
+2 years experience in Java.
 Worked with Spring Boot, MySQL and REST APIs.
 Basic exposure to AWS S3.
 BCA Graduate.
-
-6 years of experience in Python, FastAPI, AWS (EC2, Lambda, S3).
+###
+6 years experience in Python, FastAPI, AWS (EC2, Lambda, S3).
 Strong backend architecture design.
 Experience managing CI/CD pipelines.
-M.Tech in Software Engineering.
-
-3 years of experience in Python and Flask.
+Bachelor’s degree in Computer Science.
+###
+3 years experience in Python and Flask.
 Worked on AWS EC2 deployments.
 Bachelor’s degree in Computer Applications.
-
-8 years of experience in Node.js and Express.
+###
+8 years experience in Node.js and Express.
 Worked with Azure cloud services.
 MBA in IT Management.
-
-3 years of experience in Python, FastAPI, AWS EC2 and Lambda.
+###
+3 years experience in Python, FastAPI, AWS EC2 and Lambda.
 Bachelor’s degree in Computer Science.
-
-5 years of experience in Python.
+###
+5 years experience in Python.
 Worked on Data Analysis and Machine Learning.
 Experience with AWS S3.
 B.Tech in Information Technology.
