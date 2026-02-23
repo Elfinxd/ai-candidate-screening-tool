@@ -84,7 +84,7 @@ Export the ranked shortlist instantly.
 
 ---
 
-### 📌 Sample Resumes (Copy All Below)
+### 📌 Sample Resumes (Copy All Below & seperate them with ###)
 
 5 years of experience in Python and Django.
 Strong AWS experience, including EC2, Lambda, and S3.
