@@ -194,8 +194,3 @@ This MVP demonstrates:
 - Explainable ranking logic
 - Clean MVP execution
 
----
-
-⚠️ Before submission: Replace  
-`https://YOUR-STREAMLIT-LINK.streamlit.app`  
-with your actual deployed Streamlit link.
