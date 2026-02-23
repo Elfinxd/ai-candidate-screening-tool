@@ -22,7 +22,7 @@ The goal is to reduce manual screening time while maintaining transparency and r
 ## 🌐 Live Demo
 
 👉 **Access the live application here:**  
-[https://YOUR-STREAMLIT-LINK.streamlit.app ](https://ai-candidate-screening-tool-ryuvcueevppetmy5uvikcs.streamlit.app/) 
+(https://ai-candidate-screening-tool-ryuvcueevppetmy5uvikcs.streamlit.app/) 
 
 ✅ No login required  
 ✅ No installation required  
